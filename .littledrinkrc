@@ -32,31 +32,7 @@ MonitorTimeout=300000
 IButtonFile=/tmp/ibutton
 
 
-#BigDrink
-
 [Drink]
- Type=Drink
- Address=d.csh.rit.edu
- Port=4242
-
-[Snack]
- Type=Drink
- Address=s.csh.rit.edu
- Port=4242
-
-[Snack/Layout]
- Width=15
- Height=5
- Slots="5,  5,  5,
-        5,  5,  5,
-        5,  5,  5,
-        3,3,3,3,3,
-        3,3,3,3,3"
-
-
-#LittleDrink
-
-[Little Drink]
 Type=Drink
 Address=ld.csh.rit.edu
 Port=4242
