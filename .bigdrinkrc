@@ -50,3 +50,7 @@ IButtonFile=/tmp/ibutton
         5,  5,  5,
         3,3,3,3,3,
         3,3,3,3,3"
+
+[Calendar]
+ Type=Web
+ Address=https://www.google.com/calendar/b/0/embed?src=rti648k5hv7j3ae3a3rum8potk@group.calendar.google.com&ctz=America/New_York&gsessionid=lVKnk5hlzas-3OHXvrPX9w
