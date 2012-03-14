@@ -44,3 +44,7 @@ Port=4242
 [Rideboard]
  Type=Web
  Address=https://members.csh.rit.edu/~ducker/projects/rideboard/browse.php
+
+[DrinkLotto]
+ Type=Web
+ Address=http://csh.rit.edu/~duncannons/drinklotto
