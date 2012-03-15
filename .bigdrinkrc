@@ -61,4 +61,4 @@ IButtonFile=/tmp/ibutton
 
 [DrinkLotto]
  Type=Web
- Address=http://csh.rit.edu/~duncannons/drinklotto
+ Address=http://drinklotto.csh.rit.edu
