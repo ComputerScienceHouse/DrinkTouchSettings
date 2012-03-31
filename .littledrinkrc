@@ -41,9 +41,13 @@ Port=4242
  Type=Web
  Address=https://www.google.com/calendar/b/0/embed?src=rti648k5hv7j3ae3a3rum8potk@group.calendar.google.com&ctz=America/New_York&gsessionid=lVKnk5hlzas-3OHXvrPX9w
 
-[Rideboard]
+[Stats]
  Type=Web
- Address=https://members.csh.rit.edu/~ducker/projects/rideboard/browse.php
+ Address=https://drinkstats.csh.rit.edu/fordrink
+
+#[Rideboard]
+# Type=Web
+# Address=https://members.csh.rit.edu/~ducker/projects/rideboard/browse.php
 
 [DrinkLotto]
  Type=Web
